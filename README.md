@@ -17,39 +17,6 @@
 | UPLOAD2                                       | `(0__1)` | ![UPLOAD2](https://github.com/exosever/hologotchi/assets/50787424/676455ce-af84-4d3c-8190-d2dab42aef8b)         |
 
 
-## :heavy_exclamation_mark: Requirements
-First and foremost, keep in mind that you must meet this requirements:
-- A computer;
-- The pwnagotchi must already be [`v1.5.5`](https://github.com/evilsocket/pwnagotchi/releases/tag/v1.5.5) properly configured;
-- Perform a complete backup before making any modifications, including every file to be modified.
-
-> **Important**
-> The following steps were performed on a `Windows` computer using `PuTTY` as SSH client, `FileZilla` as FTP client and the pwnagotchi with a `Waveshare 2.13 V3 e-ink display` running on a `RPI0W`.
->> If you will use it in another fork or hardware, please be aware that you might need to adapt what is shown here
-
-> **Note**
-> If the folder doesn't specify which screen it was tested on, assume the sprites are for the `waveshare_v3` and similar sizes
-
-> **Note**
-> Anyone can contribute by making a pull request.
->> Don't limit yourself to just this article, feel free to create your own themes!
-
-> **Note**
-> This tutorial requires a minimum level of knowledge.
-
-> **Note**
-> If pwnagotchi updates automatically, this mod must be applied again.
-
-
-## :heavy_exclamation_mark::heavy_exclamation_mark:  Disclaimer
-> **Warning**
-> From **roodriiigooo**: The content here is free for use, but it doesn't mean you can use it however you want. No author or contributor assumes responsibility for the misuse of this device, project, or any component herein. The project and modifications were **developed solely for educational purposes**.
-> Any files, plugins or modifications of this project or original project found here should **not be sold**. In the case of use in open projects, videos or any form of dissemination, please remember to give credit to the repository ♥
-
-> **Warning**
-> Certain content may be protected by copyright, use with caution.
-
-
 ## :bookmark_tabs: Get Started
 
 First, with the pwnagotchi connected to a computer in `MANU` mode, establish an SSH connection.

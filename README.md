@@ -1,129 +1,20 @@
 ![Screenshot 2024-04-12 002035](https://github.com/exosever/hologotchi/assets/50787424/2cba6105-2b84-4f18-a88d-a0972ca0b307)
 
-
-DEMOTIVATED
-
-![DEMOTIVATED](https://github.com/exosever/hologotchi/assets/50787424/bcc8970b-bae3-462c-9eeb-0d66a3303baa)
-
-
-DEBUG
-
-![DEBUG](https://github.com/exosever/hologotchi/assets/50787424/d0f408cf-5faf-4c2e-bc77-481aa22a2bd4)
-
-
-COOL
-
-![COOL](https://github.com/exosever/hologotchi/assets/50787424/7e7836ff-6468-4041-a65e-66b048044c17)
-
-BROKEN
-
-![BROKEN](https://github.com/exosever/hologotchi/assets/50787424/6b8828bd-d653-426b-ae1e-e9fb6bbb79e0)
-
-
-BORED
-
-![BORED](https://github.com/exosever/hologotchi/assets/50787424/7885a168-99c1-493d-9d3d-18446eb2ca03)
-
-
-AWAKE
-
-![AWAKE](https://github.com/exosever/hologotchi/assets/50787424/f90e575d-d61f-4b4c-89fd-36e2d80369c2)
-
-
-ANGRY
-
-![ANGRY](https://github.com/exosever/hologotchi/assets/50787424/53433363-ffcc-47eb-8e4e-aff215ded205)
-
-
-UPLOAD2
-
-![UPLOAD2](https://github.com/exosever/hologotchi/assets/50787424/676455ce-af84-4d3c-8190-d2dab42aef8b)
-
-
-UPLOAD1
-
-![UPLOAD1](https://github.com/exosever/hologotchi/assets/50787424/5fc42249-211e-4893-baf6-95ba01c9915a)
-
-
-UPLOAD
-
-![UPLOAD](https://github.com/exosever/hologotchi/assets/50787424/3f65cee6-f033-40f8-9f5a-460422a0bfe7)
-
-
-SMART
-
-![SMART](https://github.com/exosever/hologotchi/assets/50787424/f6ffc271-76d1-452b-8f00-ea0e2b9db0fa)
-
-
-SLEEP2
-
-![SLEEP2](https://github.com/exosever/hologotchi/assets/50787424/685c9cb1-86d2-4e5f-a42f-ebcf8fc23f4b)
-
-
-SLEEP
-
-![SLEEP](https://github.com/exosever/hologotchi/assets/50787424/c43f591b-b8cd-417e-a38e-3577c79d1016)
-
-
-SAD
-
-![SAD](https://github.com/exosever/hologotchi/assets/50787424/19f3bc42-a719-4d0c-a573-987654d1b23a)
-
-
-MOTIVATED
-
-![MOTIVATED](https://github.com/exosever/hologotchi/assets/50787424/842f02fd-9fab-4821-9b09-5b9e35e3bb4c)
-
-
-LOOK_R_HAPPY
-
-![LOOK_R_HAPPY](https://github.com/exosever/hologotchi/assets/50787424/e1eb90ac-ee77-4847-b96c-6f2fcdbe5290)
-
-
-LOOK_R
-
-![LOOK_R](https://github.com/exosever/hologotchi/assets/50787424/6dfa505d-792d-49f3-98e3-1cfd689449ef)
-
-
-LOOK_L_HAPPY
-
-![LOOK_L_HAPPY](https://github.com/exosever/hologotchi/assets/50787424/e10c980d-8a69-4a66-868d-327f272a69b8)
-
-
-LOOK_L
-
-![LOOK_L](https://github.com/exosever/hologotchi/assets/50787424/9101ce7d-291d-4192-ba92-42525424d636)
-
-
-LONELY
-
-![LONELY](https://github.com/exosever/hologotchi/assets/50787424/ee70f2b6-eb88-41b6-aa06-b0dafeca2d2d)
-
-
-INTENSE
-
-![INTENSE](https://github.com/exosever/hologotchi/assets/50787424/6da621f2-ab55-444a-8428-0f9fdba79150)
-
-
-HAPPY
-
-![HAPPY](https://github.com/exosever/hologotchi/assets/50787424/e7750190-f23b-4e3e-8ee7-f08e7dc2d45e)
-
-
-GRATEFUL
-
-![GRATEFUL](https://github.com/exosever/hologotchi/assets/50787424/a485233f-b59e-49a2-9c73-feea46a7dd84)
-
-
-FRIEND
-
-![FRIEND](https://github.com/exosever/hologotchi/assets/50787424/f0297e4a-d129-4bea-96f3-f48b599e44e1)
-
-
-EXCITED
-
-![EXCITED](https://github.com/exosever/hologotchi/assets/50787424/13c53f5e-5e90-4118-b75a-8ebee02deff9)
-
+| Emotion                                       | Original | Replacement                       | Emotion (cont'd)                | Original | Replacement                 |
+| --------------------------------------------- | -------- | --------------------------------- | ------------------------------- | -------- | --------------------------- |
+| LOOK_R                                        | `( ⚆_⚆)` | ![LOOK_R](https://github.com/exosever/hologotchi/assets/50787424/6dfa505d-792d-49f3-98e3-1cfd689449ef)            | GRATEFUL                        | `(^‿‿^)` | ![GRATEFUL](https://github.com/exosever/hologotchi/assets/50787424/a485233f-b59e-49a2-9c73-feea46a7dd84)   |
+| LOOK_L                                        | `(☉_☉ )` | ![LOOK_L](https://github.com/exosever/hologotchi/assets/50787424/9101ce7d-291d-4192-ba92-42525424d636)             | EXCITED                         | `(ᵔ◡◡ᵔ)` | ![EXCITED](https://github.com/exosever/hologotchi/assets/50787424/13c53f5e-5e90-4118-b75a-8ebee02deff9)     |
+| LOOK_R_HAPPY                                  | `( ◕‿◕)` | ![LOOK_R_HAPPY](https://github.com/exosever/hologotchi/assets/50787424/e1eb90ac-ee77-4847-b96c-6f2fcdbe5290) | MOTIVATED                       | `(☼‿‿☼)` | ![MOTIVATED](https://github.com/exosever/hologotchi/assets/50787424/842f02fd-9fab-4821-9b09-5b9e35e3bb4c) |
+| LOOK_L_HAPPY                                  | `(◕‿◕ )` | ![LOOK_L_HAPPY](https://github.com/exosever/hologotchi/assets/50787424/e10c980d-8a69-4a66-868d-327f272a69b8) | DEMOTIVATED                     | `(≖__≖)` | ![DEMOTIVATED](https://github.com/exosever/hologotchi/assets/50787424/bcc8970b-bae3-462c-9eeb-0d66a3303baa)        |
+| SLEEP <br/> _(long sleep)_                    | `(⇀‿‿↼)` | ![SLEEP](https://github.com/exosever/hologotchi/assets/50787424/c43f591b-b8cd-417e-a38e-3577c79d1016)             | SMART <br/> _(on free channel)_ | `(✜‿‿✜)` | ![SMART](https://github.com/exosever/hologotchi/assets/50787424/f6ffc271-76d1-452b-8f00-ea0e2b9db0fa)        |
+| SLEEP2 <br/> _(short sleep)_                  | `(≖‿‿≖)` | ![SLEEP2](https://github.com/exosever/hologotchi/assets/50787424/685c9cb1-86d2-4e5f-a42f-ebcf8fc23f4b)             | LONELY                          | `(ب__ب)` | ![LONELY](https://github.com/exosever/hologotchi/assets/50787424/ee70f2b6-eb88-41b6-aa06-b0dafeca2d2d)       |
+| AWAKE                                         | `(◕‿‿◕)` | ![AWAKE](https://github.com/exosever/hologotchi/assets/50787424/f90e575d-d61f-4b4c-89fd-36e2d80369c2)              | SAD _(on miss)_                 | `(╥☁╥ )` | ![SAD](https://github.com/exosever/hologotchi/assets/50787424/19f3bc42-a719-4d0c-a573-987654d1b23a)             |
+| BORED                                         | `(-__-)` | ![BORED](https://github.com/exosever/hologotchi/assets/50787424/7885a168-99c1-493d-9d3d-18446eb2ca03)               | ANGRY                           | `(-_-')` | ![ANGRY](https://github.com/exosever/hologotchi/assets/50787424/53433363-ffcc-47eb-8e4e-aff215ded205)        |
+| INTENSE <br/> _(successful wifi association)_ | `(°▃▃°)` | ![INTENSE](https://github.com/exosever/hologotchi/assets/50787424/6da621f2-ab55-444a-8428-0f9fdba79150)          | FRIEND                          | `(♥‿‿♥)` | ![FRIEND](https://github.com/exosever/hologotchi/assets/50787424/f0297e4a-d129-4bea-96f3-f48b599e44e1)    |
+| COOL <br/> _(on deauth)_                      | `(⌐■_■)` | ![COOL](https://github.com/exosever/hologotchi/assets/50787424/7e7836ff-6468-4041-a65e-66b048044c17)            | BROKEN <br/> _(on reboot)_      | `(☓‿‿☓)` | ![BROKEN](https://github.com/exosever/hologotchi/assets/50787424/6b8828bd-d653-426b-ae1e-e9fb6bbb79e0)      |
+| HAPPY <br/> _(new handshakes)_                | `(•‿‿•)` | ![HAPPY](https://github.com/exosever/hologotchi/assets/50787424/e7750190-f23b-4e3e-8ee7-f08e7dc2d45e)              | DEBUG <br/>                     | `(#__#)` | ![DEBUG](https://github.com/exosever/hologotchi/assets/50787424/d0f408cf-5faf-4c2e-bc77-481aa22a2bd4)        |
+| UPLOAD                                        | `(1__0)` | ![UPLOAD](https://github.com/exosever/hologotchi/assets/50787424/3f65cee6-f033-40f8-9f5a-460422a0bfe7)            | UPLOAD1                         | `(1__1)` | ![UPLOAD1](https://github.com/exosever/hologotchi/assets/50787424/5fc42249-211e-4893-baf6-95ba01c9915a)   |
+| UPLOAD2                                       | `(0__1)` | ![UPLOAD2](https://github.com/exosever/hologotchi/assets/50787424/676455ce-af84-4d3c-8190-d2dab42aef8b)         |
 
 
 ## :heavy_exclamation_mark: Requirements

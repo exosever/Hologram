@@ -1,4 +1,14 @@
-![Screenshot 2024-04-12 002035](https://github.com/exosever/hologotchi/assets/50787424/2cba6105-2b84-4f18-a88d-a0972ca0b307)
+## Requirements
+First and foremost, keep in mind that you must meet this requirements:
+- Having followed all the steps in [this tutorial](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD/tree/main#pwnagotchi-v155---custom-faces-mod-_)
+
+
+### Sprite Table
+
+---
+
+
+
 
 | Emotion                                       | Original | Replacement                       | Emotion (cont'd)                | Original | Replacement                 |
 | --------------------------------------------- | -------- | --------------------------------- | ------------------------------- | -------- | --------------------------- |
